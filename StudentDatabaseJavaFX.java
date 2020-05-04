@@ -1,8 +1,6 @@
 /*
 Ali Zain Charolia
-COSC 1436
 11/26/2019
-Final project
 
 This program is a JavaFX application program which is useful in a school environment..
 It has five buttons - Help, SetParam, FillArray, DisplayResults and Quit with each performing a specific task
